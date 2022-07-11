@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.notion.so/28cdd2a0063a4921a05ea72330353c82" target="_blank"><img src="https://img.shields.io/badge/notion-#00000?style=?style-flat-square&logo-appveyor&logo=notion&logoColor=#000000"/></a>
+<a href="https://www.notion.so/28cdd2a0063a4921a05ea72330353c82" target="_blank"><img src="https://img.shields.io/badge/notion-#000000?style=?style-flat-square&logo-appveyor&logo=notion&logoColor=#000000"/></a>
