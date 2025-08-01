@@ -4,7 +4,7 @@
 - $\color{#adb5bd}2022.05 - 2022.12$ &nbsp;&nbsp; 🧑🏻‍🏫 네이버커넥트 대학생 SW 멘토단
 - $\color{#adb5bd}2022.09 - 2023.01$ &nbsp;&nbsp; **🎓 멋쟁이사자처럼 AI School 7th**
 - $\color{#adb5bd}2023.01 - 2023.06$ &nbsp;&nbsp; 📚 E-book <데이터 분석, 한 권에 입문하기> 집필
-- $\color{#adb5bd}2023.09 - 2023.12$ &nbsp;&nbsp; **👩🏻‍💻 하나금융TI Advanced AI 인턴, AI-OCR ** $\color{#87ceeb}하나금융융합기술원 \  AI-Vision셀$
+- $\color{#adb5bd}2023.09 - 2023.12$ &nbsp;&nbsp; **👩🏻‍💻 하나금융TI Advanced AI 인턴, AI-OCR** $\color{#87ceeb}하나금융융합기술원 \  AI-Vision셀$
 - $\color{#adb5bd}2024.07 - 2025.06$ &nbsp;&nbsp; **🎓 삼성 청년 SW·AI 아카데미(SSAFY) 12th**
 
 <br>
